@@ -1,6 +1,6 @@
 node_modules
 package-lock.json
-# coverage
+coverage
 
 {\rtf1\ansi\ansicpg1252\cocoartf2513
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
