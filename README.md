@@ -4,6 +4,8 @@
 
 ``` shell
 npm i
+
+used to install dependencies or devDependencies from a package .json file
 ```
 
 ``` shell
